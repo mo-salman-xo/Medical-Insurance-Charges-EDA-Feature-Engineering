@@ -1,6 +1,6 @@
 # Medical Insurance Charges: EDA & Feature Engineering
 
-Exploratory data analysis and preprocessing pipeline for predicting individual medical insurance charges from demographic and lifestyle attributes (age, BMI, smoking status, region, etc.).
+Exploratory data analysis and preprocessing pipeline for predicting individual medical insurance charges from demographic and lifestyle attributes (age, BMI, smoking status, region, etc.)
 
 ## Dataset
 
